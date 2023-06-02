@@ -1,60 +1,37 @@
-# Petrol-Prices-Worldwide-analysis
-Certainly! Here's an example of a README file for your GitHub repository:
+
 
 ```markdown
-# Laptop League Analysis
+---
+title: "Petrol Prices Worldwide: Extracting Insights from Data"
+output: html_document
+---
 
-![Laptop League](laptop-league.jpg)
+# Petrol Prices Worldwide: Extracting Insights from Data 📈
 
-📊 Quick analysis on Laptop League: A Comprehensive Dataset for Laptops scraped from Flipkart! 🖥️
+I recently worked on a fascinating data analysis project focusing on petrol prices worldwide using Excel. Here are some key insights:
 
-I recently had the opportunity to work with the Laptop League dataset available on Kaggle, and it yielded some exciting findings. Here are a few highlights:
+1️⃣ Average GDP per Capita: The average GDP per capita across countries studied is $15,000, reflecting the economic well-being and average income of individuals.
 
-1️⃣ Variation in Parameters: The dataset revealed intriguing variations among different laptop parameters such as the number of ratings, reviews, ratings, size, and price.
+2️⃣ Price per Gallon: The average petrol price per gallon is $1030, providing insights into economic factors and policies influencing pricing.
 
-2️⃣ Correlations: Notably, there were strong correlations between parameters like MRP (Maximum Retail Price) and price, with RAM playing a significant role.
+3️⃣ Daily Oil Consumption: The average daily oil consumption is 534,000 barrels, highlighting the global demand for oil and its importance in various industries.
 
-3️⃣ Popular Brands: ASUS laptops garnered the highest number of reviews, followed closely by Lenovo.
+4️⃣ Highest GDP per Capita: Luxembourg, Switzerland, and Macao have the highest GDP per capita, indicating strong economic performance and high living standards.
 
-4️⃣ Price Extremes: The dataset showcased MSI laptops as having the highest prices, while Prim eBook laptops were among the most affordable.
+5️⃣ Top Contributors to Global GDP: The United States contributes 20% to the top GDP per capita nations, followed closely by China.
 
-5️⃣ Sales Rankings: Lenovo laptops emerged as the top-selling brand, while Prim eBook had the lowest sales.
+6️⃣ Highest Petrol Price per Liter: North Korea has the highest petrol price per liter, reaching 3066PKR, reflecting unique economic circumstances.
 
-6️⃣ RAM Analysis: Laptops with 8GB RAM were the most popular, except for Asus, HP, MSI, and Gigabyte, where 16GB RAM configurations dominated.
+7️⃣ Venezuela's Affordability Ratio: Venezuela ranks at the top in terms of affordability ratio, indicating the ease or difficulty of accessing and affording petrol.
 
-7️⃣ Apple Insights: Apple laptops ranked seventh in terms of sales. Interestingly, laptops with 8GB, 16GB, and 32GB RAM configurations sold consistently well across the board.
+8️⃣ Singapore's Petrol Consumption: Singapore consumes the most petrol among all countries studied, showcasing heavy reliance on petrol for transportation and robust economic activities.
 
-8️⃣ MRP and Pricing: The dataset included an "MRP" column, reflecting the maximum retail price. On average, laptops were sold at a price around 18595, indicating retailer markups for profit. Notably, Apple laptops stood out as the only brand with retail prices exceeding the original prices.
+9️⃣ United States' Oil Consumption: The United States leads in daily oil consumption with approximately 19,687,000 barrels consumed daily, highlighting significant energy demands.
 
-In conclusion, this dataset offered valuable insights into the laptop market, and further analysis, such as applying machine learning models, holds promise. Stay tuned for more updates!
+These insights offer valuable information about the global petrol market, including economic factors, consumption patterns, and affordability considerations. Understanding this data helps inform decision-making in the energy sector.
 
-## Dataset Information
-
-The Laptop League dataset provides a comprehensive collection of laptops scraped from Flipkart. It includes information on various parameters such as ratings, reviews, size, price, and more. The dataset can be accessed on [Kaggle](https://www.kaggle.com/dataset/laptop-league).
-
-## Usage
-
-To replicate the analysis or explore the dataset further, you can follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/laptop-league-analysis.git
-   ```
-2. Install the required dependencies.
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-3. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
-
-Feel free to contribute, provide feedback, or raise issues if you have any suggestions or improvements for the analysis.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+I thoroughly enjoyed working on this data analysis project and uncovering these insights. If you'd like to learn more or discuss these findings, feel free to reach out!
 
 ```
 
-Remember to replace `your-username` with your actual GitHub username and include the `laptop-league.jpg` image in the repository to display it in the README.
+Make sure to save this file with the `.Rmd` extension and include it in your GitHub repository.
